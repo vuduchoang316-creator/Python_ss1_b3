@@ -11,7 +11,6 @@ patient_id = input("Nhập mã bệnh án : ")
 department = input("Khoa/phòng khám :")
 
 print("------Phiếu bệnh nhân ------")
-print(f"Bệnh nhân : {name}")
-print(f"Mã BA: {patient_id}")
-print(f"Chuyển tỡi: {department}")
+print(f"Bệnh nhân : {name} - Mã BA: {patient_id} - Chuyển tỡi: {department}")
+
 
